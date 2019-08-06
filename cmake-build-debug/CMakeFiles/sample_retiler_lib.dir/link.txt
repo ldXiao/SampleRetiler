@@ -1,0 +1,1 @@
+/usr/bin/libtool -c -static -o libsample_retiler_lib.a  CMakeFiles/sample_retiler_lib.dir/src/main.cpp.o CMakeFiles/sample_retiler_lib.dir/src/retiler.cpp.o CMakeFiles/sample_retiler_lib.dir/src/Mesh.cpp.o CMakeFiles/sample_retiler_lib.dir/src/MeshEx.cpp.o 

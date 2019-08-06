@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+56327ea8497b7d7f25be22ce00dda845 CMakeFiles/json-download
+74a6448f9cb1a6c80dd9a3061163d345 CMakeFiles/json-download-complete
+3063fad109abe815523d007b414a9f6a json-download-prefix/src/json-download-stamp/json-download-build
+ec593e88fe1335482cfa0c4a143b7017 json-download-prefix/src/json-download-stamp/json-download-configure
+e985971a276a65aa5e2ae33c07ce7017 json-download-prefix/src/json-download-stamp/json-download-download
+d10e517920bef8ac2cabfaa8123077f4 json-download-prefix/src/json-download-stamp/json-download-install
+1d098ef39bdbafb898132876d21801b2 json-download-prefix/src/json-download-stamp/json-download-mkdir
+aa16c7904654e5e7ca363b77fdacc3fc json-download-prefix/src/json-download-stamp/json-download-patch
+998db2c8ef045274f3cc1b6f35d99d39 json-download-prefix/src/json-download-stamp/json-download-test
+87145e896aa4d3046ba26a733aed27ad json-download-prefix/src/json-download-stamp/json-download-update

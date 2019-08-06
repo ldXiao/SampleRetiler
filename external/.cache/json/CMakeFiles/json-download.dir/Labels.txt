@@ -1,0 +1,14 @@
+# Target labels
+ json-download
+# Source files and their labels
+/Users/vector_cat/gits/SampleRetiler/external/.cache/json/CMakeFiles/json-download
+/Users/vector_cat/gits/SampleRetiler/external/.cache/json/CMakeFiles/json-download.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/json/CMakeFiles/json-download-complete.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-install.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-mkdir.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-download.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-update.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-patch.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-configure.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-build.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-test.rule

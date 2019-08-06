@@ -1,0 +1,14 @@
+# Target labels
+ libigl-download
+# Source files and their labels
+/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/CMakeFiles/libigl-download
+/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/CMakeFiles/libigl-download.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/CMakeFiles/libigl-download-complete.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-install.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-mkdir.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-download.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-update.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-patch.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-configure.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-build.rule
+/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-test.rule

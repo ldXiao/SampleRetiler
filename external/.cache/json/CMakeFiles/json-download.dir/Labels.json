@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/json/CMakeFiles/json-download"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/json/CMakeFiles/json-download.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/json/CMakeFiles/json-download-complete.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-install.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-mkdir.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-download.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-update.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-patch.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-configure.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-build.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/json/json-download-prefix/src/json-download-stamp/json-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"json-download"
+		],
+		"name" : "json-download"
+	}
+}

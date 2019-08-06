@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/CMakeFiles/libigl-download"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/CMakeFiles/libigl-download.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/CMakeFiles/libigl-download-complete.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-install.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-mkdir.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-download.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-update.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-patch.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-configure.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-build.rule"
+		},
+		{
+			"file" : "/Users/vector_cat/gits/SampleRetiler/external/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libigl-download"
+		],
+		"name" : "libigl-download"
+	}
+}
